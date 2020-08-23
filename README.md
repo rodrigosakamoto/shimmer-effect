@@ -8,7 +8,7 @@
   <img align="center" src=".github/main.gif" border="0" height="300"/>
 </p>
 <p align="center"> 
-  <a href="linkedinshimmer.netlify.app">Deploy here</a>
+  <a href="https://linkedinshimmer.netlify.app">Deploy here</a>
 </p>
 
 ## 🛠 Tecnologias
